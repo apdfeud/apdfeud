@@ -39,6 +39,7 @@ body {
   margin: 0 auto;
   padding: 0;
   transform: translateY(80px);
+  cursor: pointer;
 }
 
 .honeycomb-cell {
