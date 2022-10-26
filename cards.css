@@ -39,7 +39,6 @@ body {
   margin: 0 auto;
   padding: 0;
   transform: translateY(80px);
-  cursor: pointer;
 }
 
 .honeycomb-cell {
@@ -52,6 +51,7 @@ body {
   text-align: center;
   z-index: 1;
   box-shadow: 0px 0px 15px 0 rgba(0, 0, 0, 0.1);
+  cursor: pointer;
 }
 
 .honeycomb-cell_img {
